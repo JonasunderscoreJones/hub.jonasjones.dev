@@ -1,2 +1,2 @@
-# hub.jonasjones.dev
-Overview Page for all my services and pages
+# Jonas_Jones Hub
+A site that links all my Pages and Services for a better overview of the Jonas_Jones Ecosystem.
